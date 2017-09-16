@@ -1,0 +1,16 @@
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\bin\Debug\AAAAA.exe.config
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.csprojResolveAssemblyReference.cache
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.two.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.three.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.admission.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.receipt.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.modification.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.expenses.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.Properties.Resources.resources
+c:\users\dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.csproj.GenerateResource.Cache
+C:\Users\Dell1\Documents\Visual Studio 2013\Projects\AAAAA\AAAAA\bin\Debug\AAAAA.exe
+C:\Users\Dell1\Documents\Visual Studio 2013\Projects\AAAAA\AAAAA\bin\Debug\AAAAA.pdb
+C:\Users\Dell1\Documents\Visual Studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.exe
+C:\Users\Dell1\Documents\Visual Studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.pdb
+C:\Users\Dell1\documents\visual studio 2013\Projects\AAAAA\AAAAA\bin\Debug\data.mdb
+C:\Users\Dell1\Documents\Visual Studio 2013\Projects\AAAAA\AAAAA\obj\Debug\AAAAA.Form1.resources
